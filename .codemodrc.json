@@ -1,0 +1,12 @@
+{
+  "$schema": "https://codemod-utils.s3.us-west-1.amazonaws.com/configuration_schema.json",
+  "name": "@reyronald/codemod-absolute-to-relative-imports",
+  "version": "1.0.0",
+  "engine": "jscodeshift",
+  "private": false,
+  "arguments": [],
+  "meta": {
+    "tags": ["import", "absolute", "relative"],
+    "git": "https://github.com/reyronald/codemod-absolute-to-relative-imports.git"
+  }
+}
