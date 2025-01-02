@@ -1,5 +1,9 @@
 ## Example
 
+```
+npx codemod @reyronald/codemod-absolute-to-relative-imports
+```
+
 ### Before
 
 ```ts
